@@ -19,8 +19,3 @@ System Settings › Screen Saver.
 brew uninstall coverwall          # removes the app
 brew uninstall --zap coverwall    # also removes the screensaver and cached art
 ```
-
-> **Note:** version 0.0.0 is a placeholder — the cask goes live with the
-> first tagged release of Coverwall. Releases are published by
-> [`scripts/publish.sh`](https://github.com/juettner/coverwall/blob/main/scripts/publish.sh)
-> in the main repo, which also bumps this cask automatically.
