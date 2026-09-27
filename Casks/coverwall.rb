@@ -1,6 +1,6 @@
 cask "coverwall" do
-  version "1.0.0"
-  sha256 "4b0c6d49e1fc49524a6213a7e67acb272d9ac68b45499c39d6b933679c1ddb28"
+  version "1.0.1"
+  sha256 "dc543e34d3e0d1ac88feffd9cfe8817cf0aff88dfcd12286b977d2a9f1f23a34"
 
   url "https://github.com/juettner/coverwall/releases/download/v#{version}/Coverwall.dmg"
   name "Coverwall"
